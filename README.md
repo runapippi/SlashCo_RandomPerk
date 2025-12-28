@@ -1,0 +1,2 @@
+# SlashCo_RandomPerk
+SlashCoVRにおけるパークとアイテムをランダムに指定するツールです。
